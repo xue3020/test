@@ -11,3 +11,5 @@ test
 g uq lkjdsfa dd wtlt gklp
 
 test git pull
+
+test push 
